@@ -1,0 +1,36 @@
+body{
+    background-image: url("picture1.jpg");
+    
+}
+
+.header{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+#text{
+    background-color: lightblue;
+    font-style: oblique;
+    margin-left: 490px;
+    margin-top: 120px;
+    
+}
+
+.video{
+    position: fixed;
+    margin-left: 990px;
+    margin-top: -220px;
+}
+
+.text1:hover{
+    color: white;
+}
+
+.text2{
+    margin-top: 390px;
+}
+
+.text2:hover{
+    color: white;
+}
